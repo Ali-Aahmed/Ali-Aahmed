@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Ali Ali</h1>
 <br>- 🎓 Lecturer of Computer Science @ Minia University | Senior Software Engineer (.NET/Full-Stack) | Tech Mentor
 
   <br>- 💻 Full Stack Developer using **.NET & Angular**  <br>- 📱 Specialized in Android Testing & Automation  <br>- 🤖 Working on AI-based **Automated Testing Frameworks**  
